@@ -8,7 +8,6 @@ import java.util.List;
  * @author Jose Manuel
  * @version 1.1
  * @since 07/03/2024
- *
  */
 
 class Contacto {
