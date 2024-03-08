@@ -3,6 +3,14 @@ package org.example;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ *
+ * @author Jose Manuel
+ * @version 1.1
+ * @since 07/03/2024
+ *
+ */
+
 class Contacto {
     private String name;
     private List<String> phones;
